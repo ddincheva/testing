@@ -6,4 +6,8 @@ class Index {
     constructor() {
 
     }
+
+    public doSomething() {}
+
+    public testMethod() {}
 }
